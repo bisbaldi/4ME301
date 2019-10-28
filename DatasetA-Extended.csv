@@ -1,0 +1,99 @@
+﻿Time, Language, XP, Type, Skill-ID, Location, Device,Date,Time ,Hour,Time of Day ,Day of Week,Weekday,Day of Month
+1569820976,Swedish,13,LESSON,eaef3db2ab9e58d74d636879532400fb,Bed,Phone,9/30/19,7:22:56 AM,7,Morning,Monday,Weekday,30
+1569821057,Swedish,15,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Bed,Phone,9/30/19,7:24:17 AM,7,Morning,Monday,Weekday,30
+1569821311,Portuguese,12,LESSON,c21e8785aba91d70b2448d14f43eb11a,Bed,Phone,9/30/19,7:28:31 AM,7,Morning,Monday,Weekday,30
+1569821419,Portuguese,15,LESSON,72c171486e18c2b3311e25b8bb6f9d3d,Bed,Phone,9/30/19,7:30:19 AM,7,Morning,Monday,Weekday,30
+1569907691,Swedish,13,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Bed,Phone,10/1/19,7:28:11 AM,7,Morning,Tuesday,Weekday,1
+1569907836,Swedish,14,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Bed,Phone,10/1/19,7:30:36 AM,7,Morning,Tuesday,Weekday,1
+1569907909,Swedish,15,LESSON,d346959d48635ff16fce7b7071ac6270,Bed,Phone,10/1/19,7:31:49 AM,7,Morning,Tuesday,Weekday,1
+1569908022,Swedish,13,LESSON,d346959d48635ff16fce7b7071ac6270,Bed,Phone,10/1/19,7:33:42 AM,7,Morning,Tuesday,Weekday,1
+1569908197,Swedish,10,PRACTICE,,Bed,Phone,10/1/19,7:36:37 AM,7,Morning,Tuesday,Weekday,1
+1569993708,Swedish,15,LESSON,d346959d48635ff16fce7b7071ac6270,Bed,Phone,10/2/19,7:21:48 AM,7,Morning,Wednesday,Weekday,2
+1569993801,Swedish,15,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Bed,Phone,10/2/19,7:23:21 AM,7,Morning,Wednesday,Weekday,2
+1569993885,Swedish,14,LESSON,418290b3544f47f513093fb974dd7167,Bed,Phone,10/2/19,7:24:45 AM,7,Morning,Wednesday,Weekday,2
+1569993996,Swedish,15,LESSON,d346959d48635ff16fce7b7071ac6270,Bed,Phone,10/2/19,7:26:36 AM,7,Morning,Wednesday,Weekday,2
+1570129962,Swedish,14,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Hostel Stockholm,Phone,10/3/19,9:12:42 PM,21,Night,Thursday,Weekday,3
+1570130094,Portuguese,20,LESSON,98f84a795531c238e14b55682ecb74b9,Hostel Stockholm,Phone,10/3/19,9:14:54 PM,21,Night,Thursday,Weekday,3
+1570130180,Swedish,15,LESSON,d346959d48635ff16fce7b7071ac6270,Hostel Stockholm,Phone,10/3/19,9:16:20 PM,21,Night,Thursday,Weekday,3
+1570130361,Swedish,13,LESSON,d346959d48635ff16fce7b7071ac6270,Hostel Stockholm,Phone,10/3/19,9:19:21 PM,21,Night,Thursday,Weekday,3
+1570176753,Swedish,14,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Hostel Stockholm,Phone,10/4/19,10:12:33 AM,10,Morning,Friday,Weekday,4
+1570177001,Portuguese,24,PRACTICE,,Hostel Stockholm,Phone,10/4/19,10:16:41 AM,10,Morning,Friday,Weekday,4
+1570213906,Portuguese,13,LESSON,72c171486e18c2b3311e25b8bb6f9d3d,Hostel Stockholm,Phone,10/4/19,8:31:46 PM,20,Afternoon,Friday,Weekday,4
+1570262952,Swedish,15,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Hostel Stockholm,Laptop,10/5/19,10:09:12 AM,10,Morning,Saturday,Weekend,5
+1570263042,Swedish,15,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Hostel Stockholm,Laptop,10/5/19,10:10:42 AM,10,Morning,Saturday,Weekend,5
+1570263174,Swedish,14,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Hostel Stockholm,Laptop,10/5/19,10:12:54 AM,10,Morning,Saturday,Weekend,5
+1570263442,Portuguese,10,PRACTICE,,Hostel Stockholm,Laptop,10/5/19,10:17:22 AM,10,Morning,Saturday,Weekend,5
+1570288704,Portuguese,10,PRACTICE,,Café Stockholm,Phone,10/5/19,5:18:24 PM,17,Afternoon,Saturday,Weekend,5
+1570288831,Swedish,10,PRACTICE,,Café Stockholm,Phone,10/5/19,5:20:31 PM,17,Afternoon,Saturday,Weekend,5
+1570289031,Swedish,10,PRACTICE,,Café Stockholm,Phone,10/5/19,5:23:51 PM,17,Afternoon,Saturday,Weekend,5
+1570549607,Swedish,15,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Desk,Phone,10/8/19,5:46:47 PM,17,Afternoon,Tuesday,Weekday,8
+1570549693,Swedish,13,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Desk,Phone,10/8/19,5:48:13 PM,17,Afternoon,Tuesday,Weekday,8
+1570549794,Swedish,15,LESSON,418290b3544f47f513093fb974dd7167,Desk,Phone,10/8/19,5:49:54 PM,17,Afternoon,Tuesday,Weekday,8
+1570549972,Portuguese,12,LESSON,72c171486e18c2b3311e25b8bb6f9d3d,Desk,Phone,10/8/19,5:52:52 PM,17,Afternoon,Tuesday,Weekday,8
+1570600713,Swedish,15,LESSON,418290b3544f47f513093fb974dd7167,Bed,Phone,10/9/19,7:58:33 AM,7,Morning,Wednesday,Weekday,9
+1570600796,Swedish,15,LESSON,418290b3544f47f513093fb974dd7167,Bed,Phone,10/9/19,7:59:56 AM,7,Morning,Wednesday,Weekday,9
+1570601009,Swedish,10,PRACTICE,,Bed,Phone,10/9/19,8:03:29 AM,8,Morning,Wednesday,Weekday,9
+1570601194,Portuguese,10,PRACTICE,,Bed,Phone,10/9/19,8:06:34 AM,8,Morning,Wednesday,Weekday,9
+1570601410,Portuguese,13,LESSON,db7c97439e88f3af67b297acf5b564a7,Bed,Phone,10/9/19,8:10:10 AM,8,Morning,Wednesday,Weekday,9
+1570723688,Swedish,15,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Library,Laptop,10/10/19,6:08:08 PM,18,Afternoon,Thursday,Weekday,10
+1570723787,Portuguese,15,LESSON,db7c97439e88f3af67b297acf5b564a7,Library,Laptop,10/10/19,6:09:47 PM,18,Afternoon,Thursday,Weekday,10
+1570723925,Portuguese,15,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Library,Laptop,10/10/19,6:12:05 PM,18,Afternoon,Thursday,Weekday,10
+1570724035,Swedish,15,LESSON,418290b3544f47f513093fb974dd7167,Library,Laptop,10/10/19,6:13:55 PM,18,Afternoon,Thursday,Weekday,10
+1570914716,Swedish,15,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Joses,Laptop,10/12/19,11:11:56 PM,23,Night,Saturday,Weekend,12
+1570914787,Swedish,14,LESSON,d346959d48635ff16fce7b7071ac6270,Joses,Laptop,10/12/19,11:13:07 PM,23,Night,Saturday,Weekend,12
+1570915046,Portuguese,14,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Joses,Laptop,10/12/19,11:17:26 PM,23,Night,Saturday,Weekend,12
+1570915114,Portuguese,15,LESSON,22dd3facc0dbd3602d50e0f783a43829,Joses,Laptop,10/12/19,11:18:34 PM,23,Night,Saturday,Weekend,12
+1571052384,Portuguese,14,LESSON,c3bd39c79bfe2b768ab3ae6416300887,Library,Laptop,10/14/19,1:26:24 PM,13,Afternoon,Monday,Weekday,14
+1571052648,Portuguese,14,LESSON,db7c97439e88f3af67b297acf5b564a7,Library,Laptop,10/14/19,1:30:48 PM,13,Afternoon,Monday,Weekday,14
+1571052723,Swedish,15,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Library,Laptop,10/14/19,1:32:03 PM,13,Afternoon,Monday,Weekday,14
+1571052953,Portuguese,15,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Library,Laptop,10/14/19,1:35:53 PM,13,Afternoon,Monday,Weekday,14
+1571118738,Portuguese,15,LESSON,db7c97439e88f3af67b297acf5b564a7,Joses,Phone,10/15/19,7:52:18 AM,7,Morning,Tuesday,Weekday,15
+1571118931,Portuguese,13,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Joses,Phone,10/15/19,7:55:31 AM,7,Morning,Tuesday,Weekday,15
+1571119092,Portuguese,14,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Joses,Phone,10/15/19,7:58:12 AM,7,Morning,Tuesday,Weekday,15
+1571119429,Portuguese,10,PRACTICE,,Joses,Phone,10/15/19,8:03:49 AM,8,Morning,Tuesday,Weekday,15
+1571220844,Portuguese,15,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Library,Laptop,10/16/19,12:14:04 PM,12,Morning,Wednesday,Weekday,16
+1571221381,Portuguese,12,LESSON,00ef921326324afcc98ee59fa21d93b0,Library,Laptop,10/16/19,12:23:01 PM,12,Morning,Wednesday,Weekday,16
+1571221773,Portuguese,12,LESSON,db7c97439e88f3af67b297acf5b564a7,Library,Laptop,10/16/19,12:29:33 PM,12,Morning,Wednesday,Weekday,16
+1571222111,Portuguese,12,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Library,Laptop,10/16/19,12:35:11 PM,12,Morning,Wednesday,Weekday,16
+1571301280,Portuguese,12,LESSON,db7c97439e88f3af67b297acf5b564a7,Rodrigo,Phone,10/17/19,10:34:40 AM,10,Morning,Thursday,Weekday,17
+1571301498,Portuguese,15,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Rodrigo,Phone,10/17/19,10:38:18 AM,10,Morning,Thursday,Weekday,17
+1571301705,Portuguese,20,LESSON,db7c97439e88f3af67b297acf5b564a7,Rodrigo,Phone,10/17/19,10:41:45 AM,10,Morning,Thursday,Weekday,17
+1571301895,Swedish,13,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Rodrigo,Phone,10/17/19,10:44:55 AM,10,Morning,Thursday,Weekday,17
+1571302211,Swedish,12,LESSON,418290b3544f47f513093fb974dd7167,Rodrigo,Phone,10/17/19,10:50:11 AM,10,Morning,Thursday,Weekday,17
+1571389413,Swedish,14,LESSON,eaef3db2ab9e58d74d636879532400fb,Library,Laptop,10/18/19,11:03:33 AM,11,Morning,Friday,Weekday,18
+1571389508,Swedish,13,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Library,Laptop,10/18/19,11:05:08 AM,11,Morning,Friday,Weekday,18
+1571389872,Portuguese,12,LESSON,db7c97439e88f3af67b297acf5b564a7,Library,Laptop,10/18/19,11:11:12 AM,11,Morning,Friday,Weekday,18
+1571390102,Portuguese,13,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Library,Laptop,10/18/19,11:15:02 AM,11,Morning,Friday,Weekday,18
+1571480537,Swedish,14,LESSON,418290b3544f47f513093fb974dd7167,Bed,Phone,10/19/19,12:22:17 PM,12,Morning,Saturday,Weekend,19
+1571497366,Swedish,15,LESSON,418290b3544f47f513093fb974dd7167,Bed,Phone,10/19/19,5:02:46 PM,17,Afternoon,Saturday,Weekend,19
+1571497548,Portuguese,14,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Bed,Phone,10/19/19,5:05:48 PM,17,Afternoon,Saturday,Weekend,19
+1571497703,Portuguese,13,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Bed,Phone,10/19/19,5:08:23 PM,17,Afternoon,Saturday,Weekend,19
+1571594225,Portuguese,20,LESSON,db7c97439e88f3af67b297acf5b564a7,Desk,Phone,10/20/19,7:57:05 PM,19,Afternoon,Sunday,Weekend,20
+1571594375,Portuguese,13,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Desk,Phone,10/20/19,7:59:35 PM,19,Afternoon,Sunday,Weekend,20
+1571594567,Portuguese,13,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Desk,Phone,10/20/19,8:02:47 PM,20,Afternoon,Sunday,Weekend,20
+1571594811,Swedish,10,PRACTICE,,Desk,Phone,10/20/19,8:06:51 PM,20,Afternoon,Sunday,Weekend,20
+1571634765,Swedish,15,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Bed,Phone,10/21/19,7:12:45 AM,7,Morning,Monday,Weekday,21
+1571634980,Swedish,10,PRACTICE,,Bed,Phone,10/21/19,7:16:20 AM,7,Morning,Monday,Weekday,21
+1571635127,Swedish,10,PRACTICE,,Bed,Phone,10/21/19,7:18:47 AM,7,Morning,Monday,Weekday,21
+1571635281,Swedish,10,PRACTICE,,Bed,Phone,10/21/19,7:21:21 AM,7,Morning,Monday,Weekday,21
+1571635493,Portuguese,15,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Bed,Phone,10/21/19,7:24:53 AM,7,Morning,Monday,Weekday,21
+1571697733,Swedish,12,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Bed,Phone,10/21/19,12:42:13 AM,0,Night,Monday,Weekday,21
+1571697945,Swedish,15,LESSON,d346959d48635ff16fce7b7071ac6270,Bed,Phone,10/21/19,12:45:45 AM,0,Night,Monday,Weekday,21
+1571745151,Swedish,13,LESSON,eaef3db2ab9e58d74d636879532400fb,Desk,Phone,10/22/19,1:52:31 PM,13,Afternoon,Tuesday,Weekday,22
+1571745270,Swedish,20,LESSON,573bfdf6521cceff44eb0af4f3aa1ccd,Desk,Phone,10/22/19,1:54:30 PM,13,Afternoon,Tuesday,Weekday,22
+1571745383,Swedish,14,LESSON,d346959d48635ff16fce7b7071ac6270,Desk,Phone,10/22/19,1:56:23 PM,13,Afternoon,Tuesday,Weekday,22
+1571745474,Swedish,15,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Desk,Phone,10/22/19,1:57:54 PM,13,Afternoon,Tuesday,Weekday,22
+1571745700,Swedish,20,LESSON,418290b3544f47f513093fb974dd7167,Desk,Phone,10/22/19,2:01:40 PM,14,Afternoon,Tuesday,Weekday,22
+1571856450,Portuguese,13,LESSON,db7c97439e88f3af67b297acf5b564a7,Desk,Laptop,10/23/19,8:47:30 PM,20,Afternoon,Wednesday,Weekday,23
+1571856699,Portuguese,13,LESSON,db7c97439e88f3af67b297acf5b564a7,Desk,Laptop,10/23/19,8:51:39 PM,20,Afternoon,Wednesday,Weekday,23
+1571856934,Portuguese,13,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Desk,Laptop,10/23/19,8:55:34 PM,20,Afternoon,Wednesday,Weekday,23
+1571857112,Portuguese,13,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Desk,Laptop,10/23/19,8:58:32 PM,20,Afternoon,Wednesday,Weekday,23
+1571896650,Portuguese,12,LESSON,db7c97439e88f3af67b297acf5b564a7,Lisa,Phone,10/24/19,7:57:30 AM,7,Morning,Thursday,Weekday,24
+1571935935,Portuguese,12,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Library,Phone,10/24/19,6:52:15 PM,18,Afternoon,Thursday,Weekday,24
+1571936128,Portuguese,15,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Library,Phone,10/24/19,6:55:28 PM,18,Afternoon,Thursday,Weekday,24
+1571936296,Portuguese,10,PRACTICE,,Library,Phone,10/24/19,6:58:16 PM,18,Afternoon,Thursday,Weekday,24
+1571936475,Portuguese,20,LESSON,f4084dbe49500b91db7b1088e540ccc0,Library,Phone,10/24/19,7:01:15 PM,19,Afternoon,Thursday,Weekday,24
+1571989484,Portuguese,14,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Desk,Laptop,10/25/19,9:44:44 AM,9,Morning,Friday,Weekday,25
+1571989574,Swedish,15,LESSON,418290b3544f47f513093fb974dd7167,Desk,Laptop,10/25/19,9:46:14 AM,9,Morning,Friday,Weekday,25
+1571989685,Swedish,12,LESSON,84eccf163a429f6b4e1d60f7ac30dd6d,Desk,Laptop,10/25/19,9:48:05 AM,9,Morning,Friday,Weekday,25
+1571989949,Portuguese,14,LESSON,34984b608b9c7ea9ecffa7e25c9a593b,Desk,Laptop,10/25/19,9:52:29 AM,9,Morning,Friday,Weekday,25
